@@ -4,7 +4,7 @@
 
 * 1- HolaMundo.py
 * 2- VariablesPython.py
-* 3- Bubles.py
+* 3- Bucles.py
 * 4- EstruturasDeControl.py
 * 5- Operaciones.py
 * 7- Librerias.py
