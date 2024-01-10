@@ -1,4 +1,4 @@
-# Estos soy todos mi Proyectos Software
+# Estos son todos mis Proyectos Software
 
 ## Clasificados por Lenguaje
 
