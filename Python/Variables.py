@@ -9,7 +9,7 @@ numeros = [1, 2, 3, 4, 5]
 colores = ("rojo", "verde", "azul")
 # Diccionario
 edades = {"Juan": 20, "María": 25}
-#Prefecto ya declaromos variables pero no estamos haciendo nada con ellas
+#Perfecto ya declaromos variables pero no estamos haciendo nada con ellas
 #Vamos a imprimir nuestras variables por pantalla
 print(x, type(x))
 print(Nombre, type(Nombre))
