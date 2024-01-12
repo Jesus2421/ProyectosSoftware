@@ -3,7 +3,7 @@
 ## Ejercicios en Java
 
 * 1- HolaMundo.Java
-* 2- VariablesPython.Java
+* 2- VariablesJava.Java
 * 3- Bucles.Java
 * 4- EstruturasDeControl.Java
 * 5- Operaciones.Java
