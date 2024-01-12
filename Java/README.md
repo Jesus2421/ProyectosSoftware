@@ -1,4 +1,4 @@
-# Estos soy todos mi Proyectos Software en Java
+# Estos son todos mis Proyectos Software en Java
 
 ## Ejercicios en Java
 
