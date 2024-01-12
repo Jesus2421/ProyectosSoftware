@@ -1,4 +1,4 @@
-# Estos soy todos mi Proyectos Software en Python
+# Estos son todos mis Proyectos Software en Python
 
 ## Ejercicios en Python
 
