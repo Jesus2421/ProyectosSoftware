@@ -1,6 +1,6 @@
 # Estos son todos mis Proyectos Software en JavaScript
 
-## Ejercicios en Java
+## Ejercicios en JavaScript
 
 * 1- HolaMundo.js
 * 2- VariablesJava.js
