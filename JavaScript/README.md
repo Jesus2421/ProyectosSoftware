@@ -7,7 +7,6 @@
 * 3- Bucles.js
 * 4- EstruturasDeControl.js
 * 5- Operaciones.js
-* 7- Librerias.js
 * 8- Objetos.js
 * 9- Otros
 
