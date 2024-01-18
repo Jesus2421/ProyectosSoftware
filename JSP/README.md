@@ -8,8 +8,6 @@
 * 3- Bucles.jsp
 * 4- EstruturasDeControl.jsp
 * 5- Operaciones.jsp
-* 7- Librerias.jsp
-* 8- Objetos.jsp
 * 9- Otros
 
 #### Autor: Ing. Jesús Miguel Campos Correia
