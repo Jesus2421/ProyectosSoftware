@@ -3,7 +3,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
-// Vamos hace un objeto persona
+// Vamos hacer un objeto persona
 class Persona {
     public:
     int edad;
