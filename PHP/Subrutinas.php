@@ -6,5 +6,4 @@
 
   // Llamar a la subrutina (función)
   saludar("Juan");
-
 ?>
