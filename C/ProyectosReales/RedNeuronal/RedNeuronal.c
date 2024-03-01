@@ -104,7 +104,7 @@ int main() {
     printf("Introduce los valores de entrada:\n");
     for (int i = 0; i < INPUT_NEURONS; i++) {
         printf("Entrada %d: ", i + 1);
-        scanf("%lf", &network.input[i]);
+11        scanf("%lf", &network.input[i]);
     }
     // Propagar la entrada hacia adelante
     feedforward(&network);
@@ -126,7 +126,7 @@ int main() {
     
     while (1){
         printf(" Elija la operacion que desea:\n");
-        scanf("%d", &opcion);
+            scanf("%d", &opcion);
         if (opcion == 0) {
             printf("Saliendo del Programa.\n");
             break;  
