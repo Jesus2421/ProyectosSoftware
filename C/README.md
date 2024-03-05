@@ -7,7 +7,7 @@
 
 * 1- HolaMundo.c
 * 2- VariablesC.c
-* 3- Bucles.cpp
+* 3- Bucles.c
 * 4- EstruturasDeControl.c
 * 5- Operaciones.c
 * 7- Librerias.c
