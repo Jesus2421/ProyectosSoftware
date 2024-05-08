@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "typescript": "^5.4.3"
+  },
+  "dependencies": {
+    "deno": "^0.1.1",
+    "dotenv": "^16.4.5",
+    "llamaindex": "^0.2.2"
+  }
+}
