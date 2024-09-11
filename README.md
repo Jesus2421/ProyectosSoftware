@@ -1,15 +1,16 @@
-# Estos son todos mis Proyectos Software
+# Estos son todos mis Proyectos Software en Pascal
 
-## Clasificados por Lenguaje
+## Pascal es considerado por muchos como un lenguaje de programación más antiguo y no tan común en comparación con otros lenguajes más modernos. Sin embargo, en algunas aplicaciones industriales, especialmente en el ámbito de la automatización de maquinaria mediante PLC, aún se encuentra en uso. Esto puede deberse a sistemas ya existentes que fueron programados en Pascal, la preferencia del usuario o las limitaciones específicas del hardware o software utilizados en el entorno industrial. Aunque pueda considerarse obsoleto en ciertos contextos, aún cumple con ciertas necesidades en la programación de sistemas de control.
 
-* 1- Python
-* 2- Java
-* 3- JavaScript
-* 4- JSP
-* 5- C++
-* 7- C
-* 8- Pascal
-* 9- PHP
+## Ejercicios en Pascal
+
+* 1- HolaMundo.pas
+* 2- VariablesPascal.pas
+* 3- Bucles.pas
+* 4- EstruturasDeControl.pas
+* 5- Operaciones.pas
+* 7- Subrutinas.pas
+* 9- Otros
 
 #### Autor: Ing. Jesús Miguel Campos Correia
-#### Fecha de Creación: 2022-02-01
+#### Fecha de Creación: 2023-02-20
