@@ -1,14 +1,14 @@
-# Estos son todos mis Proyectos Software
+# Estos son todos mis Proyectos Software en Java
 
-## Clasificados por Lenguaje
+## Ejercicios en Java
 
-* 1- Python
-* 2- Java
-* 3- JavaScript
-* 4- JSP
-* 5- C++
-* 7- C
-* 8- Pascal
-* 9- PHP
+* 1- HolaMundo.Java
+* 2- VariablesJava.Java
+* 3- Bucles.Java
+* 4- EstruturasDeControl.Java
+* 5- Operaciones.Java
+* 7- Librerias.Java
+* 8- Objetos.Java
+* 9- Otros
 
 #### Autor: Ing. Jesús Miguel Campos Correia
