@@ -1,14 +1,14 @@
-# Estos son todos mis Proyectos Software
+# JSP es Java Server Pages
 
-## Clasificados por Lenguaje
+### JavaServer Pages es una tecnología que ayuda a los desarrolladores de software a crear páginas web dinámicas  basadas en HTML y XML, entre otros tipos de documentos. JSP es similar a PHP, pero usa el lenguaje de programación Java.
 
-* 1- Python
-* 2- Java
-* 3- JavaScript
-* 4- JSP
-* 5- C++
-* 7- C
-* 8- Pascal
-* 9- PHP
+## Proyectos en Lenguaje JSP
+* 1- HolaMundo.jsp
+* 2- VariablesJava.jsp
+* 3- Bucles.jsp
+* 4- EstruturasDeControl.jsp
+* 5- Operaciones.jsp
+* 9- Otros
 
 #### Autor: Ing. Jesús Miguel Campos Correia
+
