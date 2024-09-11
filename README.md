@@ -1,15 +1,14 @@
-# Estos son todos mis Proyectos Software
+# Estos son todos mis Proyectos Software en JavaScript
 
-## Clasificados por Lenguaje
+## Ejercicios en JavaScript
 
-* 1- Python
-* 2- Java
-* 3- JavaScript
-* 4- JSP
-* 5- C++
-* 7- C
-* 8- Pascal
-* 9- PHP
+* 1- HolaMundo.js
+* 2- VariablesJava.js
+* 3- Bucles.js
+* 4- EstruturasDeControl.js
+* 5- Operaciones.js
+* 8- Objetos.js
+* 9- Otros
 
 #### Autor: Ing. Jesús Miguel Campos Correia
-#### Fecha de Creación: 2022-02-01
+#### Fecha de Creación: 2022-02-20
