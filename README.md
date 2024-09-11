@@ -1,15 +1,15 @@
-# Estos son todos mis Proyectos Software
+# Estos son todos mis Proyectos Software en PHP
 
-## Clasificados por Lenguaje
 
-* 1- Python
-* 2- Java
-* 3- JavaScript
-* 4- JSP
-* 5- C++
-* 7- C
-* 8- Pascal
-* 9- PHP
+## Ejercicios en PHP
+
+* 1- HolaMundo.php
+* 2- Variables.php
+* 3- Bucles.php
+* 4- EstruturasDeControl.php
+* 5- Operaciones.php
+* 7- Subrutinas.php
+* 9- Otros
 
 #### Autor: Ing. Jesús Miguel Campos Correia
-#### Fecha de Creación: 2022-02-01
+#### Fecha de Creación: 2022-02-20
