@@ -1,14 +1,14 @@
-# Estos son todos mis Proyectos Software
+# Estos son todos mis Proyectos Software en C++
 
-## Clasificados por Lenguaje
+## Ejercicios en C++
 
-* 1- Python
-* 2- Java
-* 3- JavaScript
-* 4- JSP
-* 5- C++
-* 7- C
-* 8- Pascal
-* 9- PHP
+* 1- HolaMundo.cpp
+* 2- VariablesC++.cpp
+* 3- Bucles.cpp
+* 4- EstruturasDeControl.cpp
+* 5- Operaciones.cpp
+* 7- Librerias.cpp
+* 8- Objetos.cpp
+* 9- Otros
 
 #### Autor: Ing. Jesús Miguel Campos Correia
