@@ -1,15 +1,15 @@
-# Estos son todos mis Proyectos Software
+# Estos son todos mis Proyectos Software en Python
 
-## Clasificados por Lenguaje
+## Ejercicios en Python
 
-* 1- Python
-* 2- Java
-* 3- JavaScript
-* 4- JSP
-* 5- C++
-* 7- C
-* 8- Pascal
-* 9- PHP
+* 1- HolaMundo.py
+* 2- VariablesPython.py
+* 3- Bucles.py
+* 4- EstruturasDeControl.py
+* 5- Operaciones.py
+* 7- Librerias.py
+* 8- Objetos.py
+* 9- Otros
 
 #### Autor: Ing. Jesús Miguel Campos Correia
 #### Fecha de Creación: 2022-02-01
